@@ -1,0 +1,93 @@
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Properties.Resources.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AboutBox.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchAboutBox.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.ViewBooksForm.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.loginForm.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.NewRegistration.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminHomeForm.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.BookAdditionForm.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.RemoveBookForm.resources
+G:\PROG8140\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchBookForm.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AboutBox.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminHomeForm.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.NewRegistration.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Properties.Resources.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.LoginForm.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchAboutBox.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchBookForm.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.ViewBooksForm.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.BooksAdditionForm.resources
+G:\Visual Studio 2010\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.RemoveBooksForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AboutBox.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminHomeForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.BooksAdditionForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.NewRegistration.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Properties.Resources.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.LoginForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.RemoveBooksForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchAboutBox.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchBookForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.ViewBooksForm.resources
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Software Development Techniques\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.StudentHomeForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AboutBox.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminHomeForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.BooksAdditionForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Properties.Resources.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.LoginForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.RemoveBooksForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchAboutBox.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.StudentHomeForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.ViewBooksForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminSearchBooksForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.StudentSearchBooksForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.NewRegistrationForm.resources
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+G:\PROG8140\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Library.accdb
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe.config
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.exe
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.pdb
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\Library.accdb
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.exe
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\bin\Debug\LibraryManagementSystem.pdb
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AboutBox.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminHomeForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.BooksAdditionForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.NewRegistrationForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.Properties.Resources.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.LoginForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.RemoveBooksForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.SearchAboutBox.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.AdminSearchBooksForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.StudentHomeForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.StudentSearchBooksForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.ViewBooksForm.resources
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+E:\TermProject\LibraryManagementSystem\LibraryManagementSystem\obj\x86\Debug\LibraryManagementSystem.csproj.GenerateResource.Cache

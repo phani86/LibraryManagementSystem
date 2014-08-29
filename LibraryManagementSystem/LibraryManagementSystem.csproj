@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{711073D6-9AE4-407D-B459-305CF8FF690A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibraryManagementSystem</RootNamespace>
+    <AssemblyName>LibraryManagementSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox.Designer.cs">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminHomeForm.Designer.cs">
+      <DependentUpon>AdminHomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator.cs" />
+    <Compile Include="Book.cs" />
+    <Compile Include="LibraryDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Publication.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="BooksAdditionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BooksAdditionForm.Designer.cs">
+      <DependentUpon>BooksAdditionForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NewRegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NewRegistrationForm.Designer.cs">
+      <DependentUpon>NewRegistrationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RemoveBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemoveBooksForm.Designer.cs">
+      <DependentUpon>RemoveBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SearchAboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SearchAboutBox.Designer.cs">
+      <DependentUpon>SearchAboutBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminSearchBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminSearchBooksForm.Designer.cs">
+      <DependentUpon>AdminSearchBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs" />
+    <Compile Include="StudentHomeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentHomeForm.Designer.cs">
+      <DependentUpon>StudentHomeForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StudentSearchBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StudentSearchBooksForm.Designer.cs">
+      <DependentUpon>StudentSearchBooksForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs" />
+    <Compile Include="ViewBooksForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ViewBooksForm.Designer.cs">
+      <DependentUpon>ViewBooksForm.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AboutBox.resx">
+      <DependentUpon>AboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminHomeForm.resx">
+      <DependentUpon>AdminHomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BooksAdditionForm.resx">
+      <DependentUpon>BooksAdditionForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NewRegistrationForm.resx">
+      <DependentUpon>NewRegistrationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="LoginForm.resx">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemoveBooksForm.resx">
+      <DependentUpon>RemoveBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SearchAboutBox.resx">
+      <DependentUpon>SearchAboutBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminSearchBooksForm.resx">
+      <DependentUpon>AdminSearchBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentHomeForm.resx">
+      <DependentUpon>StudentHomeForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StudentSearchBooksForm.resx">
+      <DependentUpon>StudentSearchBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ViewBooksForm.resx">
+      <DependentUpon>ViewBooksForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="LibraryDataSet.xsc">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LibraryDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LibraryDataSet.xss">
+      <DependentUpon>LibraryDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="LibraryManagementSystemHelp.chm" />
+    <None Include="LibraryManagementSystemHelp.pdf" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Library.accdb">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Resources\librarymanagementsystem.jpg" />
+    <None Include="Resources\lib.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
